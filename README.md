@@ -2,6 +2,8 @@
 
 <a href='https://magnificent-manatee-48f8b4.netlify.app/' target='_blank' rel='noreferrer'>Application Live Here</a>
 
+![Application screenshot](./assets/cats-react-app.png)
+
 My goal from this demo is to integrate multiple libraries to work on different needs that occur commonly for most of production level applications.
 
 **For example:**
